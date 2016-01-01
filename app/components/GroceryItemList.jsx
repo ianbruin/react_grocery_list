@@ -1,5 +1,11 @@
 var React = require('react/addons');
 
-React.createClass({
-
+module.exports = React.createClass({
+  render: function(){
+  	return (
+  	  <div>
+  	    <h1>Grocery List</h1>
+  	  </div>
+  	)
+  }
 });
