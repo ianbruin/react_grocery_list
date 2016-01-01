@@ -1,0 +1,21 @@
+{
+  "name": "mvp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ian Liu <ianliu09@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ianbruin/first-repo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.4"
+  }
+}
